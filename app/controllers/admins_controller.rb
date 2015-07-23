@@ -1,6 +1,6 @@
 require "bcrypt"
 
-class UsersController < ApplicationController
+class AdminsController < ApplicationController
   include BCrypt
   
   def new
