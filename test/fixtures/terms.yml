@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  english: MyString
+  english_pl: MyString
+  english_pron: MyString
+  tunisian_eng: MyString
+  tunisian_eng_pl: MyString
+  tunisian_ar: MyString
+  tunisian_ar_pl: MyString
+  tunisian_pron: MyString
+  part_of_speech: 
+  description: 
+  sentences: 
+
+two:
+  english: MyString
+  english_pl: MyString
+  english_pron: MyString
+  tunisian_eng: MyString
+  tunisian_eng_pl: MyString
+  tunisian_ar: MyString
+  tunisian_ar_pl: MyString
+  tunisian_pron: MyString
+  part_of_speech: 
+  description: 
+  sentences: 
