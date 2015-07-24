@@ -9,9 +9,6 @@ class CreateTerms < ActiveRecord::Migration
       t.string :tunisian_ar
       t.string :tunisian_ar_pl
       t.string :tunisian_pron
-      t.array :part_of_speech
-      t.array :description
-      t.array :sentences
 
       t.timestamps
     end
